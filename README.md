@@ -1,14 +1,10 @@
-Certainly! Below is a sample README file for your People Counting Project using Computer Vision and YOLOv7. You can customize it further based on your specific project details and requirements.
-
----
-
 # People Counting Project using Computer Vision and YOLOv7
 
 ## Overview
 
 This repository contains the code and resources for a People Counting Project that uses Computer Vision and the YOLOv7 object detection model to count the number of people in a given area or video stream in real-time. The project is designed to provide accurate and efficient people counting for various applications, including crowd management, security, and retail analytics.
 
-[https://giphy.com/embed/RwkzcLAjdNQEbZdEAz](URL)
+[https://www.example.com/markdown-guide](https://media.giphy.com/media/RwkzcLAjdNQEbZdEAz/giphy.gif)
 
 ## Features
 
