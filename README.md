@@ -4,7 +4,7 @@
 
 This repository contains the code and resources for a People Counting Project that uses Computer Vision and the YOLOv7 object detection model to count the number of people in a given area or video stream in real-time. The project is designed to provide accurate and efficient people counting for various applications, including crowd management, security, and retail analytics.
 
-![People Counting Demo](people_count.gif)
+![People Counting Demo](people_count.gif.gif)
 
 ## Features
 
